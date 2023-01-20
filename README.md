@@ -1,7 +1,6 @@
 # :moyai: BobbyWasabi :moyai:
 ## About Me :book:
   Hi, I'm Gabriel Covaci. A volunteer sound technician and drummer, with a passion for programming and helping others!
-
 <br />
 
 ## Languages/Technologies :zap:
@@ -27,7 +26,14 @@
 <br />
 
 ## My Skills :muscle:
-
+ - Strong problem-solving abilities
+ - Strong teamwork and communication skills.
+ - Adaptability & continous learning
+ - Understanding of software testing and debugging
+ - Time management
+ - Creativity
+ - Algorithms and data structure knowledge
+ - Attention to detail
 
 <br />
 
