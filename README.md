@@ -1,16 +1,16 @@
-### Hi there 👋
+# :moyai: BobbyWasabi :moyai:
+## About Me :book:
+  Hi, I'm Gabriel Covaci. A volunteer sound technician and drummer, with a passion for programming and helping others!
 
-<!--
-**BobbyWasabiReal/BobbyWasabiReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## Languages/Technologies :zap:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Skills :muscle:
+
+
+<br />
+
+## My Stats :fire:
+
